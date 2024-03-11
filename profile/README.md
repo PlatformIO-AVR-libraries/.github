@@ -7,3 +7,4 @@ but compatibility with specific boards and devices should be checked for each li
 
 👩‍💻 Useful resources:
 - all Microchip AVR datasheets can be found on this site: https://www.microchip.com
+- AVR libC site: https://www.nongnu.org/avr-libc/
